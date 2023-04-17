@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096316154162",
+    "project_id": "phonenumber-96eef",
+    "storage_bucket": "phonenumber-96eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096316154162:android:c5b48989151f3c56e4672b",
+        "android_client_info": {
+          "package_name": "com.example.gharbeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096316154162-gqcl3qgg3fq7g73rd7gv2ia43tmt47ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQldPkpyaXhdw5rKCp-H0jquorRyePpoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096316154162-gqcl3qgg3fq7g73rd7gv2ia43tmt47ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
